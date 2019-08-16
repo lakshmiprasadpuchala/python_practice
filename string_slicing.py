@@ -1,0 +1,12 @@
+s='Lucky'
+print(s[0])
+print(s[1])
+print(s[-1])
+#print(s[40])
+print(s[1:40])
+print(s[1:])
+print(s[:])
+print(s[:4])
+print(s*3)
+print(len(s))
+print(s[-5:-1])
